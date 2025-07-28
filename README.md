@@ -15,7 +15,7 @@ Passionate **Business Intelligence & Analytics** graduate student at **Stevens I
 🔍 **Values I believe as an Analyst** - 
 **Ask First**  to ask targeted questions to uncover the real business challenge, **Prepare Thoroughly** to source & validate the right data, **Process Rigorously** to clean until the data speaks truth, **Analyze Deeply** to find patterns others miss, **Share Clearly** to turn insights into actionable visuals, **Act Decisively** to drive measurable business impact.  
 
-🛠️ ** My Core Strengths** - **Root Cause Sleuth** My mantra is the 5 Whys to fix problems at source, **SQL & Python Pro** to slice data faster than spreadsheets, **Profit Translator**  to link analysis to revenue & efficiency.
+🛠️ **My Core Strengths** - **Root Cause Sleuth** My mantra is the 5 Whys to fix problems at source, **SQL & Python Pro** to slice data faster than spreadsheets, **Profit Translator**  to link analysis to revenue & efficiency.
 
 📈 **I focus is on Data Lifecycle which involves**  
 Plan → Capture → Manage → Analyze → Archive  
