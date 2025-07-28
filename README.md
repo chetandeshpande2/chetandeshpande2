@@ -9,4 +9,4 @@ Passionate **Business Intelligence & Analytics** graduate student at **Stevens I
 
 🔍 **Eager to explore analytics across diverse industries**, leveraging data to solve unique challenges, while **thriving in collaborative environments** where teamwork drives both company success and personal growth.  
 
-📍 **New York City** | ✉️ **cdeshpan2@stevens.edu** | 🔗 **[LinkedIn](https://www.linkedin.com/in/yourprofile)**  
+📍 **New York City** | ✉️ **cdeshpan2@stevens.edu** | 🔗 **[LinkedIn](www.linkedin.com/in/chetan-deshpande2)**  
