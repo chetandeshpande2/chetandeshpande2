@@ -12,27 +12,17 @@ Passionate **Business Intelligence & Analytics** graduate student at **Stevens I
 
 🔍 **Eager to explore analytics across diverse industries**, leveraging data to solve unique challenges, while **thriving in collaborative environments** where teamwork drives both company success and personal growth.  
 
-🔍 **Values as an Analyst**  
-1. **Ask First** – Uncover the real business challenge  
-2. **Prepare Thoroughly** – Source & validate the right data  
-3. **Process Rigorously** – Clean until the data speaks truth  
-4. **Analyze Deeply** – Find patterns others miss  
-5. **Share Clearly** – Turn insights into actionable visuals  
-6. **Act Decisively** – Drive measurable business impact  
+🔍 **Values I believe as an Analyst** - **Ask First**  to uncover the real business challenge, **Prepare Thoroughly** to source & validate the right data, **Process Rigorously** –  to clean until the data speaks truth, **Analyze Deeply** to find patterns others miss, **Share Clearly** to turn insights into actionable visuals, **Act Decisively** to drive measurable business impact.  
 
-🛠️ **Core Strengths**  
-- **Root Cause Sleuth** – 5 Whys to fix problems at source  
-- **SQL & Python Pro** – Slice data faster than spreadsheets  
-- **Profit Translator** – Link analysis to revenue & efficiency  
+🛠️ ** My Core Strengths** - **Root Cause Sleuth** My mantra is the 5 Whys to fix problems at source, **SQL & Python Pro** to slice data faster than spreadsheets, **Profit Translator**  to link analysis to revenue & efficiency.
 
-📈 **Data Lifecycle Focus**  
+📈 **I focus is on Data Lifecycle which involves**  
 Plan → Capture → Manage → Analyze → Archive  
 
-🤝 **Collaborative Mindset**  
-"Data wins when teams align on context & strategy"  
+🤝 **I come with Collaborative Mindset** and I strongly believe that Data wins when teams align on context & strategy.
 
-📈 **Data-Driven Business Solutions**  
-Open to collaborate on **business tasks** that leverage data to:  
+📈 **Open to collaborate on **business tasks** that leverage data to:**  
+ 
 - Optimize **business processes**  
 - Uncover efficiency gains  
 - Drive **profitability** through actionable insights  
