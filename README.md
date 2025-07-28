@@ -3,7 +3,7 @@
 📍 **New York City** | ✉️ **cdeshpan2@stevens.edu** | 🔗 **[LinkedIn](https://www.linkedin.com/in/chetan-deshpande2)**  
 
 
-📊 **Data-Driven Decision Maker** | 🚀 **HR & Business Analytics Specialist** | 🖥️ **SQL, Python, Tableau Expert, PowerBi, Excel
+📊 **Data-Driven Decision Maker** | 🚀 **HR & Business Analytics Specialist** | 🖥️ **SQL, Python, Tableau Expert, PowerBi, Excel**
 
 ---
 
