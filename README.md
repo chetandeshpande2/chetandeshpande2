@@ -12,7 +12,7 @@ Passionate **Business Intelligence & Analytics** graduate student at **Stevens I
 
 🔍 **Eager to explore analytics across diverse industries**, leveraging data to solve unique challenges, while **thriving in collaborative environments** where teamwork drives both company success and personal growth.  
 
-🔍 **Values I believe as an Analyst** - **Ask First**  to uncover the real business challenge, **Prepare Thoroughly** to source & validate the right data, **Process Rigorously** –  to clean until the data speaks truth, **Analyze Deeply** to find patterns others miss, **Share Clearly** to turn insights into actionable visuals, **Act Decisively** to drive measurable business impact.  
+🔍 **Values I believe as an Analyst** - **Ask First**  to uncover the real business challenge, **Prepare Thoroughly** to source & validate the right data, **Process Rigorously** to clean until the data speaks truth, **Analyze Deeply** to find patterns others miss, **Share Clearly** to turn insights into actionable visuals, **Act Decisively** to drive measurable business impact.  
 
 🛠️ ** My Core Strengths** - **Root Cause Sleuth** My mantra is the 5 Whys to fix problems at source, **SQL & Python Pro** to slice data faster than spreadsheets, **Profit Translator**  to link analysis to revenue & efficiency.
 
